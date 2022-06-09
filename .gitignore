@@ -111,3 +111,6 @@ models/
 .vector_cache/
 
 .vscode/
+
+#large File
+large/
